@@ -1,0 +1,8 @@
+@charset "euc-kr";
+
+body#sub	 {background-image:none;}
+#topGnb,	body#sub	#header,	#leftArea,	#rightArea,	body#sub	#footer	 {display:none;}
+
+#cntsArea	 {clear:both;float:none;width:706px;background-image:none;}
+#pageInfo	 {margin:0 auto 20px;padding:0 0 13px;}
+#contents	 {padding:0 0 40px 0;background-image:none;}
